@@ -1,5 +1,5 @@
-# itguye.github.io
-<html xmlns="http://www.w3.org/1999/xhtml">
+
+<html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>我的书城</title>
@@ -9,9 +9,7 @@
 <body>
 <header>
 <div class="div1">
-
 <h2>我的书城</h2>
-
 <div class="div3">
 <a href="dengru.html"><input type="button" value="登入" /></a>
 <a href="zhuce.html">
@@ -20,6 +18,7 @@
 </div>
 </div>
 </header>
+	
 <div class="div4">
 <table class="table1">
 <tr>
