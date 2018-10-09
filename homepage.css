@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+@charset "utf-8"
+body{
+	margin:0;
+	padding:0;
+	
+	
+}
+.div1{
+	background:#06F;
+	height:100px;
+	line-height:100px;
+	padding-left:25px;
+	color:#FFF;
+	
+	}
+	
+	
+
+.div3{
+	position:absolute;
+	top:15px;
+	right:35px;
+	}
+.div3 input{
+	height:35px;
+	border-radius:9px 9px 9px 9px;
+	background:#0099FF;
+	}
+.div4{
+	background:#000;
+	height:150px;
+}
+#a{color:#00C;}
+#b{color:#ffffff}
+#c{color:#ff0000}
+#d{color:#ffffff}
+#e{color:#ffffff}
+#f{color:#998844}
+#g{color:#ffffff}
+#h{color:#998844}
+.table1{
+	height:150px;
+	width:100%;
+	
+}
+.div5{
+	background:#999;
+	height:60px;
+	
+	
+}
+.text1{
+	width:350px;
+	height:40px;
+	border-radius:9px 9px 9px 9px;
+}
+.div6{
+	
+	position:absolute;
+	top:275px;
+	left:20px;
+}
+.button1{
+	height:35px;
+	border-radius:9px 9px 9px 9px;
+	background:#2295FF;
+}
+.div7{
+	
+	position:absolute;
+	top:280px;
+	left:390px;
+}
+.div8  {
+	padding:10px;
+	background:#CCC;
+	
+	
+}
+
+.div9  {
+	background:#CCC;
+	padding:10px;
+	
+}
+.div10 {
+	background:#CCC;
+	padding:10px;
+	
+}
+ .div11 {
+	background:#CCC;
+	padding:10px;
+	
+}
+
+.div12 {
+	background:#CCC;
+	padding:10px;
+	
+}
+.div13{
+	background:#03F;
+	height:8px;
+}
+.div14{
+	text-align:center;
+	
+}
+.div15{
+	text-align:center;
+	font-size:15px;
+}
+.ul11{
+	display:none;
+}
